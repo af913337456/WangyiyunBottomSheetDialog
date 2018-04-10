@@ -34,7 +34,7 @@
 * 和列表控件滑动不冲突，在`列表控件`滑尽的时候，可以下滑隐藏`dialog`
 
 ### 最后是--我开源 的仿网易云音乐 `BottomSheetDialog`
-![](https://user-gold-cdn.xitu.io/2018/4/10/162ad73525847cce?w=720&h=1280&f=gif&s=2398240)
+![](https://user-gold-cdn.xitu.io/2018/4/10/162ade837ae3a357?w=506&h=900&f=gif&s=2227035)
 
 可以看出，效果和`网易云的一样`
 
